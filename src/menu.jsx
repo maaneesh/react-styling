@@ -1,13 +1,19 @@
 import Items from "./Item";
 function Menu() {
   return (
-    <section
-      style={{ backgroundColor: "pink", margin: "20px", padding: "20px" }}
-    >
+    <section className="menu">
       <h1>Menu</h1>
-      <Items />
-      <Items />
-      <Items />
+      <Items
+        name="Burger"
+        description="Pasture raised organic beef."
+        price="24"
+      />
+      <Items
+        name="Fries"
+        description="Perfectly sliced organic potatoes."
+        price="14"
+      />
+      <Items name="Soda" description="American classic soda." price="8" />
     </section>
   );
 }

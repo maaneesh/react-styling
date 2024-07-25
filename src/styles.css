@@ -1,0 +1,23 @@
+* {
+  padding: 0;
+}
+.title {
+  background-color: aqua;
+  padding: 20px;
+  margin: 20px;
+}
+.menu {
+  background-color: pink;
+  margin: 20px;
+  padding: 20px;
+}
+.item {
+  background-color: #f8f9fa;
+  margin: 10px;
+  padding: 20px;
+}
+.footer {
+  background-color: gray;
+  padding: 20px;
+  margin: 20px;
+}

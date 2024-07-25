@@ -1,8 +1,6 @@
 function App() {
   return (
-    <section
-      style={{ backgroundColor: "blue", margin: "20px", padding: "20px" }}
-    >
+    <section className="title">
       <h1>My Business</h1>
     </section>
   );
