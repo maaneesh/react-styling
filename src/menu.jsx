@@ -9,6 +9,11 @@ function Menu() {
         price="24"
       />
       <Items
+        name="New York style pizza"
+        description="Oven baked using fresh tomato sauce and mozorella cheese."
+        price="24"
+      />
+      <Items
         name="Fries"
         description="Perfectly sliced organic potatoes."
         price="14"
